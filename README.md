@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! My name is Olarte</h1>
-<h3 align="center">I am a passionate developer always ready to work and improve! I have knowledge in the fields of C/C++ Data structures and designs.</h3>
+<h3 align="center">always ready to work and improve!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olarte-coder&label=Profile%20views&color=0e75b6&style=flat" alt="olarte-coder" /> </p>
 
